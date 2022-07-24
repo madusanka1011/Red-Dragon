@@ -26,7 +26,7 @@ global.owner = ['+94761508260'] //Owner number in aive msg
 global.premium = ['+94761508260'] //Owner Number info
 global.ownernomer = '+94761508260' //Owner Number <<<
 
-global.ownername = '↳ ☬ᵀᵀ BOT 𝘕𝘐𝘗𝘜 ↲' //Owner Name
+global.ownername = '↳ 𝘈.𝘕𝘐𝘗𝘜𝘕 𝘔𝘈𝘋𝘜𝘚𝘈𝘕𝘒𝘈 ↲' //Owner Name
 global.botname = '↳ 𝘈.𝘕𝘐𝘗𝘜𝘕 𝘔𝘈𝘋𝘜𝘚𝘈𝘕𝘒𝘈 ↲' //Bot Name
 
 global.button = '☰ 🤭 මෙක ටච් කරන්න 🫣 ☰' //Costomize A Button Name In Alive Message
@@ -34,13 +34,13 @@ global.btnurl = 'https://github.com/madusanka1011' //Change Your Button's URL
 
 global.region = 'India, South India, Kerala' //Country Region
 
-global.packname = '↳ ☬ᵀᵀ BOT 𝘕𝘐𝘗𝘜 ↲' //Bot Pacage Name
+global.packname = '↳ 𝘈.𝘕𝘐𝘗𝘜𝘕 𝘔𝘈𝘋𝘜𝘚𝘈𝘕𝘒𝘈 ↲' //Bot Pacage Name
 global.author = '↳ 𝘈.𝘕𝘐𝘗𝘜𝘕 𝘔𝘈𝘋𝘜𝘚𝘈𝘕𝘒𝘈 ↲' //Author Name
 global.prefa = ['','!','.','😂','❤️','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sessionName = 'session' //Session Name!
 global.sp = '💖' //A Charactor
 global.dragonemoji = '🧩' // Menu emoji
-global.footer = '©_↳ ☬ᵀᵀ BOT 𝘕𝘐𝘗𝘜 ↲.' //In list menu
+global.footer = '©_↳ 𝘈.𝘕𝘐𝘗𝘜𝘕 𝘔𝘈𝘋𝘜𝘚𝘈𝘕𝘒𝘈 ↲.' //In list menu
 global.chatbotpre = 'true'  // Chat bot true/false
 
 global.ig = 'https://github.com/madusanka1011' //Github Account!
